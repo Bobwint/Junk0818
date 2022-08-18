@@ -11,6 +11,7 @@
 		9193530628AECEC900BF8896 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9193530528AECEC900BF8896 /* ContentView.swift */; };
 		9193530828AECECD00BF8896 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9193530728AECECD00BF8896 /* Assets.xcassets */; };
 		9193530B28AECECD00BF8896 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9193530A28AECECD00BF8896 /* Preview Assets.xcassets */; };
+		9193531228AED26500BF8896 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9193531128AED26500BF8896 /* ModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		9193530528AECEC900BF8896 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9193530728AECECD00BF8896 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9193530A28AECECD00BF8896 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9193531128AED26500BF8896 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				9193530328AECEC900BF8896 /* Junk0818App.swift */,
 				9193530528AECEC900BF8896 /* ContentView.swift */,
+				9193531128AED26500BF8896 /* ModalView.swift */,
 				9193530728AECECD00BF8896 /* Assets.xcassets */,
 				9193530928AECECD00BF8896 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9193531228AED26500BF8896 /* ModalView.swift in Sources */,
 				9193530628AECEC900BF8896 /* ContentView.swift in Sources */,
 				9193530428AECEC900BF8896 /* Junk0818App.swift in Sources */,
 			);
